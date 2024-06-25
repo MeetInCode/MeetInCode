@@ -1,4 +1,4 @@
-<h2> &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi there, I'm 👇 ! <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100" height="100"> </h2>
+<h2> &nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi there, I'm 👇 ! <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100" height="100"> </h2>
 
 ![](https://github.com/MeetInCode/MeetInCode/blob/bb2f437658a14126c2dfdd6ccedd7ab651c3239f/mygif.gif)
 
@@ -50,7 +50,8 @@ const Meet = {
 
  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetInCode&theme=highcontrast" alt="MeetInCode" />
-   
+	 <br/>
+<img src="https://github.com/MeetInCode/MeetInCode/blob/output/github-contribution-grid-snake.svg" />
   
 </div>
 
@@ -71,5 +72,4 @@ const Meet = {
 </details>
 
 
-![snake gif](https://github.com/MeetInCode/MeetInCode/blob/output/github-contribution-grid-snake.gif)
 #
