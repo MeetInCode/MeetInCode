@@ -51,7 +51,7 @@ const Meet = {
  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetInCode&theme=highcontrast" alt="MeetInCode" />
    
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 </details>
@@ -71,3 +71,4 @@ const Meet = {
 </details>
 
 #
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
