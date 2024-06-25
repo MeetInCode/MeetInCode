@@ -3,7 +3,7 @@
 ![](https://github.com/MeetInCode/MeetInCode/blob/bb2f437658a14126c2dfdd6ccedd7ab651c3239f/mygif.gif)
 
 <!--profilelinks--https://dev.to/envoy_/150-badges-for-github-pnk#social-->
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: MeetInCode](https://img.shields.io/twitter/follow/MeetInCode?style=social)](https://twitter.com/MeetInCode)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
@@ -12,10 +12,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Meet = {
   pronouns: "he" | "him",
   studies: "pursuing xyz at xyz"
-  frameworks & libraries: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  frameworks & Libraries: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   databases: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   design: ["microservices", "event-driven", "design system pattern"],
   hosting/SaaS: ["microservices", "event-driven", "design system pattern"],
@@ -27,3 +27,36 @@ const thai = {
  awards & recognition: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeetInCode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetInCode&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetInCode&hide_border=true" />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 13 Ventura</li>
+	    <li><b>Laptop: </b> Macbook Air M1</li>
+  	    <li><b>Browser: </b> Chrome & Safari</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	</ul>
+</details>
+
+#
