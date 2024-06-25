@@ -1,4 +1,4 @@
-<h2> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi there, I'm 👇 ! <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100" height="100"> </h2>
+<h2> &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi there, I'm 👇 ! <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100" height="100"> </h2>
 
 ![](https://github.com/MeetInCode/MeetInCode/blob/bb2f437658a14126c2dfdd6ccedd7ab651c3239f/mygif.gif)
 
@@ -34,15 +34,26 @@ const Meet = {
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeetInCode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetInCode&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeetInCode&show_icons=true&theme=highcontrast&locale=en" alt="MeetInCode" /></p>
+	 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeetInCode&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="MeetInCode" />
+  <br />
+</div>
+
+ 
+ 
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetInCode&hide_border=true" />
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetInCode&theme=highcontrast" alt="MeetInCode" />
+   
+  
+</div>
+
 </details>
 
 <details>
