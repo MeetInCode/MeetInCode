@@ -16,18 +16,23 @@
 ```javascript
 const Meet = {
   pronouns: "he" | "him",
-  studies: "pursuing xyz at xyz"
-  frameworks & Libraries: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  databases: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  design: ["microservices", "event-driven", "design system pattern"],
-  hosting/SaaS: ["microservices", "event-driven", "design system pattern"],
+  studies: "pursuing computer engineering at DJ Sanghvi College",
+  frameworksAndLibraries: ["React 19", "Next.js 15", "Shadcn", "Tailwind CSS"],
+  languages: ["C", "C++", "Python", "JavaScript"],
+  databases: ["MongoDB", "PostgreSQL", "SQL"],
+  headlessCMS: ["Sanity", "Appwrite"],
+  noCodeTools: ["Webflow"],
   projects: {
-                        projectname: "desc",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- awards & recognition: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+    NextBigPitch: "https://github.com/MeetInCode/NextBigPitch",
+    MeetInCode_Blogs: "https://github.com/MeetInCode/Meetincode_blog-s",
+    Nannohack: "https://drive.google.com/file/d/1xkE34lqI_s-96h_yJAx1_1Y1j7CXiouk/view?usp=sharing"
+  },
+  awardsAndRecognition: [
+    "Secured 1st position at Technical Paper Presentation at Techfair’24",
+    "Secured 1st position at Shri Bhagubhai Mafatlal Polytechnic Polyhacks 1.0 Hackathon"
+  ]
+};
+
 ```
 
 ### Projects and Dev Stuffs:
@@ -63,13 +68,13 @@ const Meet = {
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+  	    <li><b>OS:</b>WIN 10</li>
+	    <li><b>Laptop: </b>Asus X555DA</li>
+  	    <li><b>Browser: </b> Chrome & Opera</li>
+	    <li><b>Terminal: </b> Git bash & cmd</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+ 	    <li><b>Other Tools:</b>WSL, Postman, LunaTasks, chatgpt (obviously)</li>
+	 
 	</ul>
 </details>
 
