@@ -6,8 +6,7 @@
 
 <!--profilelinks--https://dev.to/envoy_/150-badges-for-github-pnk#social-->
 [![Twitter: MeetInCode](https://img.shields.io/twitter/follow/MeetInCode?style=social)](https://twitter.com/MeetInCode)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Meet Mehta](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/meetmehta115/)
 
 <!--profilelinks---->
 
