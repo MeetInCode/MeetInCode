@@ -74,7 +74,6 @@ const Meet = {
 	    <li><b>Terminal: </b> Git bash & cmd</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
  	    <li><b>Other Tools:</b>WSL, Postman, LunaTasks, chatgpt (obviously)</li>
-	 
 	</ul>
 </details>
 
